@@ -1,4 +1,4 @@
-# Naviworks---Gomoku
+# NaviGo
 
 Multiplayer Gomoku game using CMD (Server & Client Socket Programming)
 
